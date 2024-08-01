@@ -77,6 +77,8 @@ public class MainActivity extends AppCompatActivity {
         swwitch = findViewById(R.id.simpleSwitch);
         editTextNumber.setText(sayi);
 
+
+
         deleteButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
