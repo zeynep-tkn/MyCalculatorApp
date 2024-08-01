@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
         button8 = findViewById(R.id.button8);
         button9 = findViewById(R.id.button9);
 
+
         swwitch = findViewById(R.id.simpleSwitch);
         editTextNumber.setText(sayi);
 
